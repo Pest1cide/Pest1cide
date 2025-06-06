@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Zimeng Wang
 
-<!--
-**Pest1cide/Pest1cide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**
+- M.Sc. in Control, Robotics and Autonomous Systems, Aalto University (2024 – Present)  
+  _Aalto University Full Tuition Fee Scholarship_  
+- Upcoming Exchange Student at EPFL (Sept 2025 – Feb 2026)  
+  _Aalto Exchange Scholarship_  
+- B.Eng in Robotics Engineering, Southern University of Science and Technology (2020 – 2024)  
+  _GPA: 3.73/4.0 (Top 15%)_
 
-Here are some ideas to get you started:
+🔬 **Research Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile Robotics Group, Aalto University**  
+  *Scalability of Multi-Agent Path Finding*  
+  → Applied VO/RVO for large-scale MAPF with local coordination
+
+- **SUSTech ARTINX Robotics Lab**  
+  *RoboMaster Wheel-Legged Robot Simulation and Control*  
+  → LQR + VMC control, state-space modeling, hardware verification
+
+- **Soil-Robot Interaction Study**  
+  → Fisheye correction, wheel-soil boundary detection with K-means and transparent wheels
+
+🏆 **Selected Honors**
+- 2nd Prize – Mechanical Engineering Innovation Competition (2022)  
+- 3rd Award of Merit Student Scholarship (2022, 2023)  
+- Excellent Student of SUSTech (2022)  
+
+🌍 **Interests**
+- Multi-Agent Path Planning  
+- Model Based Control  
+- AI for Robotics
+
+🛠️ **Skills**
+- Languages: Python > C++/C = Java 
+- Libraries/Frameworks: ROS, PyTorch  
+- Tools: SolidWorks, Fusion360, MATLAB
+
+📫 **Contact**
+- 📧 zimeng.wang@aalto.fi
+- 📍 Currently at Aalto University, Finland
+
+<!-- GitHub Stats -->
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
