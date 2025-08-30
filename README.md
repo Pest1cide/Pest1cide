@@ -2,11 +2,11 @@
 
 🎓 **Education**
 - M.Sc. in Control, Robotics and Autonomous Systems, Aalto University (2024 – Present)  
-  _Aalto University Full Tuition Fee Scholarship_  
+  _Full Tuition Fee Scholarship_  
 - Upcoming Exchange Student at EPFL (Sept 2025 – Feb 2026)  
-  _Aalto Exchange Scholarship_  
+  _Exchange Scholarship_  
 - B.Eng in Robotics Engineering, Southern University of Science and Technology (2020 – 2024)  
-  _GPA: 3.73/4.0 (Top 15%)_
+  _GPA: 3.73/4.0 (Top 10%)_
 
 🔬 **Research Experience**
 
