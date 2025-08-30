@@ -24,7 +24,8 @@
 🏆 **Selected Honors**
 - 2nd Prize – Mechanical Engineering Innovation Competition (2022)  
 - 3rd Award of Merit Student Scholarship (2022, 2023)  
-- Excellent Student of SUSTech (2022)  
+- Excellent Student of SUSTech (2022)
+- 2nd Prize -LeRobot x HF RobotHackthon 
 
 🌍 **Interests**
 - Multi-Agent Path Planning  
@@ -37,8 +38,8 @@
 - Tools: SolidWorks, Fusion360, MATLAB
 
 📫 **Contact**
-- 📧 zimeng.wang@aalto.fi
-- 📍 Currently at Aalto University, Finland
+- 📧 zimeng.wang@aalto.fi/ zimeng.wang@epfl.ch
+- 📍 Currently at EPFL, Switherland
 
 <!-- GitHub Stats -->
 ---
